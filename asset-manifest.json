@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SounderGrad-React-Challenge/static/css/main.d3a48b3f.css",
+    "main.js": "/SounderGrad-React-Challenge/static/js/main.c42b48e2.js",
+    "static/js/787.093ef247.chunk.js": "/SounderGrad-React-Challenge/static/js/787.093ef247.chunk.js",
+    "static/media/navimage.png": "/SounderGrad-React-Challenge/static/media/navimage.eab675a51239a438321a.png",
+    "index.html": "/SounderGrad-React-Challenge/index.html",
+    "main.d3a48b3f.css.map": "/SounderGrad-React-Challenge/static/css/main.d3a48b3f.css.map",
+    "main.c42b48e2.js.map": "/SounderGrad-React-Challenge/static/js/main.c42b48e2.js.map",
+    "787.093ef247.chunk.js.map": "/SounderGrad-React-Challenge/static/js/787.093ef247.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3a48b3f.css",
+    "static/js/main.c42b48e2.js"
+  ]
+}
